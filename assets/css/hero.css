@@ -27,7 +27,7 @@
     padding: 0 50px;
 }
 
-#hero h2 span. {
+#hero h2 span.hero-title {
     display: block;
     width: fit-content;
     font-size: 4rem;
